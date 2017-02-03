@@ -1,6 +1,6 @@
 # hello-world
 Repository for Lasher Works projects
-<?php \n
+<?php
   $salutations = 'Hello World!';
   echo $salutations;
 ?>
